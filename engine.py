@@ -1,6 +1,6 @@
 
 from chroma import ChromaWithUpsert, MiniLML6V2EmbeddingFunctionLangchain
-from config import Configuration
+#from config import Configuration
 from params import Parameters
 # Utils
 import os
