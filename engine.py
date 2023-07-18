@@ -1,7 +1,7 @@
 
 from src.schemas.chroma import ChromaWithUpsert, MiniLML6V2EmbeddingFunctionLangchain
-from src.schemas import Configuration
-from src.schemas import Parameters
+from config import Configuration
+from params import Parameters
 # Utils
 import os
 import logging
