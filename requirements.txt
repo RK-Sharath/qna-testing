@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+pdf2image
+pytesseract
+unstructured
+ibm-generative-ai[langchain]
+chromadb
+sentence_transformers
+rouge
