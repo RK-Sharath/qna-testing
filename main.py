@@ -1,6 +1,6 @@
 import streamlit as st
-from src.schemas.engine import Engine
-from src.schemas.params import Parameters
+import Engine
+import Parameters
 import time
 from genai.schemas import ModelType
 
